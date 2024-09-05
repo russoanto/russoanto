@@ -1,8 +1,8 @@
 ## Hi there 👋
 [![MasterHead](https://wallpapercave.com/wp/wp3087413.jpg)](https://github.com/russoanto)
 ### My Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=russoanto)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=russoanto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=russoanto&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=russoanto&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
