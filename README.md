@@ -1,25 +1,51 @@
-## Hi there 👋
-[![MasterHead](https://wallpapercave.com/wp/wp3087413.jpg)](https://github.com/russoanto)
+# Hello there 👋
 
-## 📚 Education
-[2020 - <b>currently</b>] Computer Science - University of Modena and Reggio Emilia<br>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-### My Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=russoanto&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=russoanto&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
 
-<!--
-**russoanto/russoanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class ComputerScience:
 
-Here are some ideas to get you started:
+    def __init__(self):
+        self.name = "Russo Antonio"
+        self.role = "Computer Science Student"
+        self.language_spoken = ["it_IT", "en_US"]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = ComputerScience()
+me.say_hi()
+```
+
+## 📝 Blogs
+
+- Personal website and blog: https://russoanto.github.io/blog/en/
+
+## 🔧 Technologies & Tools
+
+**Programming Languages:**
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![Rust](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
+
+<!-- ## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/Zhenye-Na/Zhenye-Na">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=russoanto&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="russoantoe's GitHub Stats" />
+</a>
+
+<a href="https://github.com/Zhenye-Na/Zhenye-Na">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=russoanto&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
+</a> -->
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=russoanto&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
