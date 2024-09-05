@@ -1,6 +1,6 @@
 # Hello there 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=russoantonio.russoantonio)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=russoanto.russoanto)
 
 ```python
 #!/usr/bin/python
