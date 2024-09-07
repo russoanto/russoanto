@@ -22,7 +22,7 @@ me.say_hi()
 
 ## 📝 Blogs
 
-- Personal website and blog: https://russoanto.github.io/blog/en/
+- Personal website and blog: https://russoanto.github.io/blog/
 
 ## 🔧 Technologies & Tools
 
