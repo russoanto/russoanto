@@ -44,5 +44,5 @@ me.say_hi()
 </a> -->
 
 ## 🏆 GitHub Trophies
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/russoanto)
 [![trophy](https://github-profile-trophy.vercel.app/?username=russoanto&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
