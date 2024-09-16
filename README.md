@@ -42,7 +42,8 @@ me.say_hi()
 <a href="https://github.com/Zhenye-Na/Zhenye-Na">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=russoanto&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
 </a> -->
+## 🏆 Leetcode Stats
+![Leetcode Stats](https://leetcard.jacoblin.cool/russoanto)
 
 ## 🏆 GitHub Trophies
-![Leetcode Stats](https://leetcard.jacoblin.cool/russoanto)
 [![trophy](https://github-profile-trophy.vercel.app/?username=russoanto&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
