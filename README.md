@@ -20,7 +20,7 @@ me = ComputerScience()
 me.say_hi()
 ```
 
-## 📝 Blogs
+## 📝 Blog
 
 - Personal website and blog: https://russoanto.github.io/blog/
 
